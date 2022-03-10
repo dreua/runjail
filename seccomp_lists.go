@@ -30,6 +30,7 @@ var SeccompAllow = []string{
 	"clock_nanosleep",
 	"clock_nanosleep_time64",
 	"clone",
+	"clone3",
 	"close",
 	"close_range",
 	"connect",
